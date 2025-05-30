@@ -1,0 +1,21 @@
+{
+  "name": "pami-victor-santos",
+  "version": "1.0.0",
+  "description": "Aula sobre Progamação de Aplicativos Mobile I com o prof João Siles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorzx9/pami-victor-santos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/victorzx9/pami-victor-santos/issues"
+  },
+  "homepage": "https://github.com/victorzx9/pami-victor-santos#readme"
+}
